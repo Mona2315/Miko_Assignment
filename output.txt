@@ -1,0 +1,1 @@
+Value in REG1: 6000
